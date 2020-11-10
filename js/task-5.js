@@ -19,7 +19,7 @@ function checkForSpam(str) {
 
 function checkForSpamArr(str) { 
     const stopWords = ['spam', 'sale'];
-    let words = str.toLowerCase()/*.split(' ')*/;
+    let words = str.toLowerCase();
 
     console.log(words);
 
