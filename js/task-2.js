@@ -1,3 +1,4 @@
+'use strict'
 /*const calculateEngravingPrice = (message = "", pricePerWord = 0) => engravingPrice ; // Write code in this line
 const message = 'Proin sociis natoque et magnis parturient montes mus';
 const pricePerWord = 10;

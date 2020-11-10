@@ -1,3 +1,4 @@
+'use strict'
 /*---------------------for BOT---------------------------*/
 const getItemsString = function(array) {
   'use strict';
